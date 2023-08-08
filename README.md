@@ -1,1 +1,1 @@
-# top-store
+# TopStore
